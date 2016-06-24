@@ -9,7 +9,7 @@ If you've got a poster you've created and would like to commit it here, please d
 
 These posters cover the following access needs:
 * Autism (https://github.com/UKHomeOffice/posters/blob/master/accessibility/autistic-spectrum.pdf)
-* Dyslexia (https://github.com/UKHomeOffice/posters/blob/master/accessibility/Dyslexia.pdf)
+* Dyslexia (https://github.com/UKHomeOffice/posters/blob/master/accessibility/dyslexia.pdf)
 * Visually impaired - low vision users (https://github.com/UKHomeOffice/posters/blob/master/accessibility/low-vision.pdf)
 * Visually impaired - screenreader users (https://github.com/UKHomeOffice/posters/blob/master/accessibility/screenreader.pdf)
 
