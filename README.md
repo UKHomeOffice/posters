@@ -3,7 +3,7 @@ Home Office Digital repository of posters covering different topics - research, 
 
 **Background**
 
-If you'd like to learn more about these posters, and why they were made, read this blogpost by their creator Karwai Pun.
+If you'd like to learn more about these posters, and why they were made, read [this blogpost by their creator Karwai Pun](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/).
 
 **Contributions**
 
@@ -15,7 +15,7 @@ You are welcome to translate the posters. We want them to be available in as man
 
 So if you'd like to translate them:
 
-1. clone the repository
+1. [clone the repository](https://github.com/UKHomeOffice/posters)
 2. translate them
 3. Add 2 or 3 letter language code to the end of ech poster - e.g. "screenreader_fr.pdf."
 3. send a pull request so we can merge them, or tell us where they are so we can advertise them here.
