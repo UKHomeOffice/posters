@@ -33,20 +33,23 @@ Read more in LICENSE.md.
 **Access needs**
 
 These posters cover the following access needs:
-* Autism (https://github.com/UKHomeOffice/posters/blob/master/accessibility/autistic-spectrum.pdf)
-* Dyslexia (https://github.com/UKHomeOffice/posters/blob/master/accessibility/dyslexia.pdf)
-* Visually impaired - low vision users (https://github.com/UKHomeOffice/posters/blob/master/accessibility/low-vision.pdf)
-* Visually impaired - screenreader users (https://github.com/UKHomeOffice/posters/blob/master/accessibility/screenreader.pdf)
+* [Autism](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/autistic-spectrum.pdf)
+* [Dyslexia](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/dyslexia.pdf)
+* [Visually impaired - low vision users](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/low-vision.pdf)
+* [Visually impaired - screenreader users](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/screenreader.pdf)
 
+Those posters are also availaible in other languages:
+* [French (fr-FR)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_fr)
+* [Taiwanese Mandarin (zh-TW)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_zh-TW)
 
 **User research and design**
 
-* User research is a team sport (https://github.com/UKHomeOffice/posters/blob/master/gds/research-teamsport.pdf)
-* 2 hours of user research every six weeks (https://github.com/UKHomeOffice/posters/blob/master/gds/two-hours-every-six-weeks.pdf)
-* GDS design principles (https://github.com/UKHomeOffice/posters/blob/master/gds/design-principles-poster.pdf)
-* GDS "It's OK to.." (https://github.com/UKHomeOffice/posters/blob/master/gds/its-ok-to.pdf)
+* [User research is a team sport](https://github.com/UKHomeOffice/posters/blob/master/gds/research-teamsport.pdf)
+* [2 hours of user research every six weeks](https://github.com/UKHomeOffice/posters/blob/master/gds/two-hours-every-six-weeks.pdf)
+* [GDS design principles](https://github.com/UKHomeOffice/posters/blob/master/gds/design-principles-poster.pdf)
+* [GDS "It's OK to.."](https://github.com/UKHomeOffice/posters/blob/master/gds/its-ok-to.pdf)
 
 
 **Contact**
 
-Best is to open a message in Issues, and we'll get in touch. Otherwise you can contact Karwai Pun, @krwpn, or Bernard Tyers, @bernardtyers, on Twitter.
+Best is to open a message in Issues, and we'll get in touch. Otherwise you can contact Karwai Pun, [@krwpn](https://twitter.com/krwpn), or Bernard Tyers, [@bernardtyers](https://twitter.com/bernardtyers), on Twitter.
