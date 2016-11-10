@@ -4,4 +4,4 @@
 
 **Expand**
 
-By other use require, it will be no longer stuck at font type install
+By other using, it will be no need to install font type 
