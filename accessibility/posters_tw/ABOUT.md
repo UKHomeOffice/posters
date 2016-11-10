@@ -4,4 +4,4 @@
 
 **Expand**
 
-For other using, it will be no longer need to install the font
+For other use, it will be no longer need to install the font
