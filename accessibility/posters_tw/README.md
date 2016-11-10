@@ -1,6 +1,6 @@
 # Font Type
 
-**Source Han Sans**
+**Source Han Sans (Taiwan)**
 
 from https://github.com/adobe-fonts/source-han-sans/tree/release#region-specific-subset-otfs
 
