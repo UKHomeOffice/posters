@@ -5,4 +5,5 @@
 
 **Expand**
 
-For other use, it will be no longer need to install the font
+All the text has been expanded into images,  
+it will be no longer need to install the font to use them
