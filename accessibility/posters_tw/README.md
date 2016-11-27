@@ -5,4 +5,4 @@
 
 **Expand**
 
-All the text has been expanded into images
+All the text has been expanded into image
