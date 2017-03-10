@@ -3,7 +3,7 @@ Home Office repository of posters covering different topics - research, access n
 
 **Discovery Alpha Beta Live posters**
 * [General](https://github.com/UKHomeOffice/posters/blob/master/discovery-alpha-beta-live/DiscoveryAlpaBetaLive_OnePage.pdf)
-* [Discover Alpha Beta Live phases](https://github.com/UKHomeOffice/posters/blob/master/discovery-alpha-beta-live/DiscoveryAlpaBetaLive_OnePage.pdf)
+* [Discover Alpha Beta Live phases](https://github.com/UKHomeOffice/posters/blob/master/discovery-alpha-beta-live/DiscoveryAlpaBetaLive_Individual.pdf)
 
 
 **Access needs**
