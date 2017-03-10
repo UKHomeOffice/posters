@@ -1,7 +1,7 @@
 # Home Office Posters
 Home Office repository of posters covering different topics - research, access needs, accessibility, design.
 
-**Discovery Alpha Beta Live posters**
+**Discovery Alpha Beta Live**
 * [General](https://github.com/UKHomeOffice/posters/blob/master/discovery-alpha-beta-live/DiscoveryAlphaBetaLive_OnePage.pdf)
 * [Discover Alpha Beta Live phases](https://github.com/UKHomeOffice/posters/blob/master/discovery-alpha-beta-live/DiscoveryAlphaBetaLive_Individual.pdf)
 
@@ -27,4 +27,4 @@ These posters cover the following access needs:
 
 **Contact**
 
-Best is to open a message in Issues, and we'll get in touch. Otherwise you can contact Karwai Pun, [@krwpn](https://twitter.com/krwpn), or Bernard Tyers, [@bernardtyers](https://twitter.com/bernardtyers), on Twitter.
+Best is to open a message in Issues, and we'll get in touch.
