@@ -11,17 +11,16 @@ If you'd like to learn more about these posters, and why they were made, read [t
 If you've got a poster you've created, and would like to commit it here, please do!
 
 
-**Translations**
+**Fonts**
 
-You are welcome to translate the posters. We want them to be available in as many languages as possible. We only ask you to make available publicly.
+We're happy for people to use the "source-sans-pro" font as discussed in [issue 23](https://github.com/UKHomeOffice/posters/issues/23).
 
-A suggested approach might be:
 
-1. [clone the repository](https://github.com/UKHomeOffice/posters)
-2. translate them
-3. Add 2 or 3 letter language code to the end of each poster - e.g. "screenreader_fr.pdf."
-4. send a pull request so we can merge them, or tell us where they are so we can advertise them here.
+**Localisation**
 
+You are welcome to localise the posters. We want them to be available in as many languages as possible. We only ask you to make available publicly.
+
+You can read more in LOCALISATION.md.
 
 **Licensing**
 
