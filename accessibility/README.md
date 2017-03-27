@@ -1,10 +1,9 @@
 # Access Needs Posters
 Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.
 
-**Background**
+##Background
 
 If you'd like to learn more about these posters, and why they were made, read [this blogpost by their creator Karwai Pun](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/).
-
 
 **See all the posters**
 
@@ -12,16 +11,11 @@ Using Git Browser, you can [view all the posters before you start working on the
 
 (A big thanks to [Joe Lanman](https://twitter.com/joelanman) from [GDS](https://twitter.com/gdsteam) for adding our posters to his Git Browser project)
 
-
-**Contributions**
-
-If you've got a poster you've created, and would like to commit it here, please do!
-
+##Contributing
 
 **Fonts**
 
 We're happy for people to use the "source-sans-pro" font as discussed in [issue 23](https://github.com/UKHomeOffice/posters/issues/23).
-
 
 **Localisation**
 
@@ -29,12 +23,13 @@ You are welcome to localise the posters. We want them to be available in as many
 
 You can read more in LOCALISATION.md.
 
+##Using the posters
+
 **Licensing**
 
 The posters are available under Creative Commons BY-NC-SA license - this means you can reuse, adapt them for non-commercial uses as long as you attribute the original project.
 
 Read more in LICENSE.md.
-
 
 **Access needs**
 
@@ -48,14 +43,8 @@ Those posters are also availaible in other languages:
 * [French (fr-FR)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_fr)
 * [Taiwanese Mandarin (zh-TW)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_zh-TW)
 
-**User research and design**
+##Get in touch
 
-* [User research is a team sport](https://github.com/UKHomeOffice/posters/blob/master/gds/research-teamsport.pdf)
-* [2 hours of user research every six weeks](https://github.com/UKHomeOffice/posters/blob/master/gds/two-hours-every-six-weeks.pdf)
-* [GDS design principles](https://github.com/UKHomeOffice/posters/blob/master/gds/design-principles-poster.pdf)
-* [GDS "It's OK to.."](https://github.com/UKHomeOffice/posters/blob/master/gds/its-ok-to.pdf)
+Best is to open a [new issue](https://github.com/UKHomeOffice/posters/issues), and we'll get in touch.
 
-
-**Contact**
-
-Best is to open a message in Issues, and we'll get in touch. Otherwise you can contact Karwai Pun, [@krwpn](https://twitter.com/krwpn), or Bernard Tyers, [@bernardtyers](https://twitter.com/bernardtyers), on Twitter.
+Otherwise you can contact Karwai Pun, [@krwpn](https://twitter.com/krwpn), or Bernard Tyers, [@bernardtyers](https://twitter.com/bernardtyers), on Twitter.

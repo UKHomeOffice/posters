@@ -1,10 +1,23 @@
+
 # Home Office Posters
 Home Office repository of posters covering different topics - research, access needs, accessibility, design.
 
-**Discovery Alpha Beta Live**
-* [General](https://github.com/UKHomeOffice/posters/blob/master/discovery-alpha-beta-live/DiscoveryAlphaBetaLive_OnePage.pdf)
-* [Discover Alpha Beta Live phases](https://github.com/UKHomeOffice/posters/blob/master/discovery-alpha-beta-live/DiscoveryAlphaBetaLive_Individual.pdf)
 
+
+**See ALL the posters**
+
+Using Git Browser, you can [view all the posters before you start working on them](http://www.git-browser.com/ukhomeoffice/posters/accessibility/posters_en-UK).
+
+(A big thanks to [Joe Lanman](https://twitter.com/joelanman) from [GDS](https://twitter.com/gdsteam) for adding our posters to his Git Browser project)
+
+
+**Contributions and contact**
+
+If you've got a poster you've created, and would like to commit it here, please do!
+
+We welcome feedback - please [add an issue](https://github.com/UKHomeOffice/posters/issues) - positive or negative.
+
+Otherwise you can contact Karwai Pun, [@krwpn](https://twitter.com/krwpn), or Bernard Tyers, [@bernardtyers](https://twitter.com/bernardtyers), on Twitter.
 
 **Access needs**
 
@@ -24,7 +37,7 @@ These posters cover the following access needs:
 * [GDS design principles](https://github.com/UKHomeOffice/posters/blob/master/gds/design-principles-poster.pdf)
 * [GDS "It's OK to.."](https://github.com/UKHomeOffice/posters/blob/master/gds/its-ok-to.pdf)
 
+**Discovery Alpha Beta Live**
 
-**Contact**
-
-Best is to open a message in Issues, and we'll get in touch.
+* [General](https://github.com/UKHomeOffice/posters/blob/master/discovery-alpha-beta-live/DiscoveryAlphaBetaLive_OnePage.pdf)
+* [Discover Alpha Beta Live phases](https://github.com/UKHomeOffice/posters/blob/master/discovery-alpha-beta-live/DiscoveryAlphaBetaLive_Individual.pdf)
