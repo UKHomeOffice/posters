@@ -1,7 +1,7 @@
 # Access Needs Posters
 Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.
 
-##Background
+## Background
 
 If you'd like to learn more about these posters, and why they were made, read [this blogpost by their creator Karwai Pun](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/).
 
@@ -11,7 +11,7 @@ Using Git Browser, you can [view all the posters before you start working on the
 
 (A big thanks to [Joe Lanman](https://twitter.com/joelanman) from [GDS](https://twitter.com/gdsteam) for adding our posters to his Git Browser project)
 
-##Contributing
+## Contributing
 
 **Fonts**
 
@@ -23,7 +23,7 @@ You are welcome to localise the posters. We want them to be available in as many
 
 You can read more in LOCALISATION.md.
 
-##Using the posters
+## Using the posters
 
 **Licensing**
 
@@ -35,15 +35,20 @@ Read more in LICENSE.md.
 
 These posters cover the following access needs:
 * [Autism](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/autistic-spectrum.pdf)
+* [Deaf](https://github.com/ukhomeoffice/posters/blob/master/accessibility/posters_en-UK/deaf.pdf)
 * [Dyslexia](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/dyslexia.pdf)
+* [Physical or motor disabilities](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/motor-disabilities.pdf)
 * [Visually impaired - low vision users](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/low-vision.pdf)
 * [Visually impaired - screenreader users](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/screenreader.pdf)
 
-Those posters are also availaible in other languages:
+These posters are also available in other languages:
+* [German (de-DE)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_de)
+* [Spanish (es-ES)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_es)
 * [French (fr-FR)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_fr)
+* [Dutch (nl-NL)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_nl)
 * [Taiwanese Mandarin (zh-TW)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_zh-TW)
 
-##Get in touch
+## Get in touch
 
 Best is to open a [new issue](https://github.com/UKHomeOffice/posters/issues), and we'll get in touch.
 
