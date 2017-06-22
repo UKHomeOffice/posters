@@ -35,18 +35,21 @@ Read more in LICENSE.md.
 
 These posters cover the following access needs:
 * [Autism](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/autistic-spectrum.pdf)
-* [Deaf](https://github.com/ukhomeoffice/posters/blob/master/accessibility/posters_en-UK/deaf.pdf)
+* [Deafness and hard of hearing](https://github.com/ukhomeoffice/posters/blob/master/accessibility/posters_en-UK/deaf.pdf)
 * [Dyslexia](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/dyslexia.pdf)
 * [Physical or motor disabilities](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/motor-disabilities.pdf)
 * [Visually impaired - low vision users](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/low-vision.pdf)
 * [Visually impaired - screenreader users](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/screenreader.pdf)
 
 These posters are also available in other languages:
-* [German (de-DE)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_de)
-* [Spanish (es-ES)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_es)
-* [French (fr-FR)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_fr)
 * [Dutch (nl-NL)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_nl)
+* [French (fr-FR)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_fr)
+* [German (de-DE)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_de)
+* [Portuguese (pt-BR)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_pt-BR)
+* [Spanish (es-ES)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_es)
+* [Taiwanese (tw-TW)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_tw)
 * [Taiwanese Mandarin (zh-TW)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_zh-TW)
+* [Turkish (tr-TR)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_tr)
 
 ## Get in touch
 
