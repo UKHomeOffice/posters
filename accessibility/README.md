@@ -3,7 +3,7 @@ Home Office Digital repository of posters covering different topics - research, 
 
 ## Background
 
-If you'd like to learn more about these posters, and why they were made, read [this blogpost by their creator Karwai Pun](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/).
+If you'd like to learn more about these posters, and why they were made, read [this blogpost](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/).
 
 **See all the posters**
 
