@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>lowVision/lowContrast</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Site-assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Visually-impaired---low-vision" transform="translate(-1249.000000, -776.000000)">
+            <g id="lowVision/lowContrast" transform="translate(1249.000000, 776.000000)">
+                <circle id="Oval-84" fill="#FFBF47" opacity="0.469624534" cx="100" cy="100" r="100"></circle>
+                <text id="Aa" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="54" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="65" y="115">Aa</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
