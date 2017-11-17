@@ -1,0 +1,17 @@
+/*main*/
+$mainColour: #E0EEF7;
+
+/*borders*/
+$lineColour: #E68B5A;
+
+/*highlight*/
+$secondaryColour: lighten($mainColour, 5%);
+
+/*for "Don't" boxes*/
+$negativeColour: lighten($mainColour, 2%);
+
+/*body links*/
+$moreInfoLinkColour: darken($mainColour, 70%);
+
+/*index secondary background
+$home-bg: darken($mainColour, 10%);*/

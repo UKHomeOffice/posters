@@ -1,0 +1,11 @@
+//styles.scss
+
+@import "colours/physicalColours";
+@import "partials/deviceSizes";
+@import "partials/grid";
+@import "partials/skeleton";
+@import "partials/typography";
+
+#physical-header-image {
+  background-image: url("../image/physicalOrMotor/titleImage.svg");
+}

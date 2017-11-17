@@ -1,0 +1,18 @@
+//styles.scss
+
+@import "colours/autismColours";
+@import "partials/deviceSizes";
+@import "partials/grid-b";
+@import "partials/custom-b";
+@import "partials/typography-b";
+
+.headerImage {
+  margin: 3.5rem 0 3.5rem 0;
+  background-image: url("../image/autismSpectrum/292.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100px;
+  height: 100px;
+  display: block;
+}

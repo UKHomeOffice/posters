@@ -1,0 +1,14 @@
+/*main*/
+$mainColour: #FFEFD1;
+
+/*borders*/
+$lineColour: #FFBF47;
+
+/*highlight*/
+$secondaryColour: lighten($mainColour, 5%);
+
+/*for "Don't" boxes*/
+$negativeColour: lighten($mainColour, 2%);
+
+/*body links*/
+$moreInfoLinkColour: darken($mainColour, 70%);

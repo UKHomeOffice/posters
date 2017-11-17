@@ -1,0 +1,11 @@
+//styles.scss
+
+@import "colours/dyslexiaColours";
+@import "partials/deviceSizes";
+@import "partials/grid";
+@import "partials/skeleton";
+@import "partials/typography";
+
+#dyslexia-header-image {
+  background-image: url("../image/dyslexia/titleImage.svg");
+}

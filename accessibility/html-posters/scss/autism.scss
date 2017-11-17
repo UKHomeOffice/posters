@@ -1,0 +1,11 @@
+//styles.scss
+
+@import "colours/autismColours";
+@import "partials/deviceSizes";
+@import "partials/grid";
+@import "partials/skeleton";
+@import "partials/typography";
+
+#autism-header-image {
+  background-image: url("../image/autismSpectrum/292.png");
+}

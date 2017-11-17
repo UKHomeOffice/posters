@@ -1,0 +1,11 @@
+//styles.scss
+
+@import "colours/deafColours";
+@import "partials/deviceSizes";
+@import "partials/grid";
+@import "partials/skeleton";
+@import "partials/typography";
+
+#deaf-header-image {
+  background-image: url("../image/deafHardOfHearing/titleImage.svg");
+  }

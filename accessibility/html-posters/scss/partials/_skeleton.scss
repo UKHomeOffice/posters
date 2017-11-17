@@ -1,0 +1,821 @@
+/*
+* Skeleton V2.0.4
+* Copyright 2014, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 12/29/2014
+*/
+
+
+/* Table of contents
+––––––––––––––––––––––––––––––––––––––––––––––––––
+- Added by SC
+- Base Styles
+- Typography
+- Links
+- Buttons
+- Forms
+- Lists
+- Code
+- Tables
+- Spacing
+- Utilities
+- Clearing
+- Media Queries
+*/
+
+/* Added by SC
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/*main*/
+.mainColour {background-color: $mainColour;}
+
+/*highlight*/
+.secondaryColour {background-color: $secondaryColour;}
+
+/*for "Don't" boxes*/
+.negativeColour {background-color: $negativeColour;}
+
+/*borders*/
+.borderColour {border-color: $lineColour;}
+
+/*body links*/
+.moreInfoLinkColour {color: $moreInfoLinkColour;}
+
+/*nav links*/
+.navBarColour {background-color: $secondaryColour;}
+
+
+/* for smallest devices -------------------------------------*/
+
+/* Nav */
+
+@media (max-width: 400px) {
+  body {
+    margin: 0;
+  }
+
+
+.homeTitle {
+ margin: 10px 0;
+ display: block;
+}
+
+.homeLink {
+  display: block;
+  color: black;
+  text-align: left;
+  text-decoration: underline;
+  font-size: 2rem;
+  padding: 1.3rem;
+  padding-left: 3rem;
+}
+
+.guidanceBoxalt {
+  display: flex;
+  text-align: center;
+  margin-bottom: -10px;
+  padding: 15px;
+  height: 100px;
+
+  img {margin: auto; max-height: 70px; max-width: 100px;}
+  p {margin: 10px; padding-left: 8px; padding-right: 45px; text-align: left; font-size: 16px; line-height: 24px;}
+
+}
+
+.bottomguidance {
+  text-align: left;
+  margin-top: 0px;
+  margin-bottom: 50px;
+  padding-top: 10px;
+  padding: 20px 20px 20px 20px;
+
+  p {margin: 5px; text-align: left; font-size: 15px; line-height: 19px; color: #213C2F; }
+}
+
+.titleFlexParent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1rem;
+
+  h1 {
+    font-size: 23px;
+  }
+}
+.titleFlexChild {
+  width: 70%;
+}
+
+.headerImage {
+  margin: 1rem 0 1rem 0;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100px;
+  height: 100px;
+  display: inline;
+  }
+
+  hr {
+    margin-top: 0rem;
+    margin-bottom: 3.5rem;
+    border-width: 0;
+    border-top: 4px solid $lineColour;
+    width: 97%; }
+
+    .link {
+      padding-left: 15px;
+      letter-spacing: -.4px;
+
+      a {
+      h1 {
+        font-size: 19px;
+      }
+    }}
+
+    .icon {
+      float: left;
+      padding: 16px;
+
+      svg {
+        width: 18px;
+        height: 18px;
+      }
+    }
+
+    .poster-menu {
+      h3 {
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 24px;
+    font-size: 19px;
+    letter-spacing: -.4px;
+    }
+    }
+
+
+    .bottom-menu
+    {
+      list-style-type: none;
+       margin-bottom: 0;
+       padding: 0;
+       overflow: hidden;
+    a {
+      display: block;
+       text-align: center;
+       padding-right: 50px;
+       padding-left: 30px;
+       padding-top: 10px;
+       color: black;
+       line-height: normal;
+       text-decoration-color: black;}
+
+
+    li {
+        float: left;
+        display: inline;}
+    }
+
+}
+
+/* Page title */
+
+.titleFlexParent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2rem;
+  margin: 2rem 0 3rem 0;
+}
+.titleFlexChild {
+  width: 70%;
+}
+
+/* Intro blurb */
+
+.intro {
+  margin: 0 0 3.6rem 0;
+  p{font-size: 1.8rem; margin-left: 0;}
+}
+
+/* Column headers */
+
+.nav {
+  overflow: hidden;
+  display: inline-block;
+}
+
+
+
+.link {
+  padding-left: 20px;
+  letter-spacing: -.4px;
+}
+
+
+
+
+
+.table {
+  display: table;
+  margin: 0 auto;
+}
+
+.doDontHeader {
+  text-align: center;
+  border-style: solid;
+  border-width: 0 0 4px 0;
+  padding: 2%;
+}
+
+/* Guidance boxes */
+
+.guidanceBox img {
+  margin: 5rem;
+  max-height: 20rem;
+}
+
+.guidanceBox {
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+  margin: 15px;
+  padding: 15px;
+  height: 180px;
+
+  img {margin: auto; max-height: 100px; max-width: 150px;}
+  p {margin: 10px; text-align: center;}
+  a {text-align: center; cursor:pointer;}
+}
+
+
+
+.moreInfoLink {
+text-decoration: underline;
+}
+
+/* Sizing for menu page picture box */
+
+.home-intro {
+  padding: 0 0 1rem 0;
+}
+.title-line-1 {
+  display: block;
+  font-size: 2.1rem;
+  font-weight: bold;
+}
+
+.title-line-2 {
+  font-size: 3.2rem;
+  font-weight: bold;
+}
+.picturebox {
+  flex-flow: column;
+  text-align: center;
+  margin-bottom: 40px;
+  img {max-width: 90%; max-height: 200px;}
+  a {margin-top: 0; display: block; color: black;}
+}
+
+.home-card {
+  margin: 1.6rem 0;
+  p {
+    text-align: center;
+  }
+}
+
+
+.full-width {
+  padding: 1.5rem;
+  background-color: darken($mainColour, 3%);
+}
+
+.home-img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  img {
+    max-width: 50%;
+    max-height: 8rem;
+    margin: 2rem 0;}
+}
+
+.autism-link {
+  background-color: #D4D4C9;
+}
+
+.screenreaders-link {
+  background-color: #C8D8CC;
+}
+
+.lowvision-link {
+  background-color: #B1DADF;
+}
+
+.dyslexia-link {
+  background-color: #E7E2CB;
+}
+
+.deaf-link {
+  background-color: #DFD1DA;
+}
+
+.physical-link {
+  background-color: #BEDEDB;
+}
+
+/* CSS Modal -------------------------------------------------*/
+
+/*Greying out the background*/
+.dialog {
+  z-index: 0;
+  background-color: rgba(0, 0, 0, 0.66);
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+
+	-webkit-transition: opacity 150ms ease-in;
+	-moz-transition: opacity 150ms ease-in;
+	transition: opacity 150ms ease-in;
+}
+
+.dialog[aria-hidden="true"]{
+  display: none;
+}
+
+.modal-body {
+  z-index: 3;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+	width: 80%;
+  padding: 5%;
+}
+
+.modal-body h2 {text-align: center;}
+.modal-body h3 {font-size: 1.8rem;}
+.modal-body img {
+  max-height: 10rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 20px;}
+
+/*Close and back*/
+
+.back {display: block; color: #000000; text-align: left; padding: 0;}
+.close {display: block; color: #000000; text-align: center; padding: 0;}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+/* for devices wider than a phablet -------------------------------------*/
+
+@media (min-width: 400px) {
+
+  .homeTitle {
+    margin: 4.8rem 0 1.6rem 0;
+  }
+
+  .title-line-1 {
+    font-size: 5.2rem;
+    //display: block;
+  }
+  .title-line-2 {
+    font-size: 5.2rem;
+  }
+  .homeLink {
+    font-size: 2rem;
+    padding: 1.3rem;
+    padding-left: 3rem;
+    color: black;
+    text-decoration: underline;
+  }
+
+  .home-card {
+    margin: 1.6rem;
+  }
+
+  .home-img-container {
+    height: 16rem;
+    img {
+      max-height: 70%;
+    }
+  }
+
+  .email-footer {
+    margin: 4.8rem 0 3.2rem 0;
+  }
+
+  .titleFlexParent {margin: 0rem;}
+
+  .modal-body {width: 50%;}
+
+  .picturebox {
+    img {max-width: 70%; max-height: 70%;}
+  }
+
+  .needsLink {
+    font-size: 2.7rem;
+  }
+
+  .headerImage {
+    margin: 2rem 0 1rem 0;
+    padding-left: 2rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 150px;
+    height: 150px;
+    display: inline;
+    }
+
+    .guidanceBoxalt {
+      display: flex;
+      flex-flow: column;
+      text-align: center;
+      margin: 0px;
+      padding: 15px;
+      height: 200px;
+
+      img {margin: auto; max-height: 100px; max-width: 150px; padding: 5px; }
+      p {margin: 10px; padding-left: 10px; padding-right: 10px; text-align: center; font-size: 20px; line-height: 24px;}
+      a {text-align: center; cursor:pointer;}
+
+    }
+
+    .bottomguidance {
+      text-align: center;
+      margin-top: 0px;
+      margin-bottom: 50px;
+      padding: 10px;
+      padding-right: 65px;
+      padding-left: 65px;
+
+      p {margin: 10px; text-align: left; font-size: 16px; line-height: 22px; color: #213C2F; }
+    }
+
+    hr {
+      margin-top: 3rem;
+      margin-bottom: 3.5rem;
+      border-width: 0;
+      border-top: 4px solid $lineColour;
+      width: 97%; }
+
+      .link {
+        padding-left: 20px;
+      }
+
+      .icon {
+        float: left;
+        padding: 16px;
+
+        svg {
+          width: 23px;
+          height: 23px;
+        }
+      }
+      .poster-menu {
+        h3 {
+      text-align: left;
+      padding-top: 20px;
+      font-size: 24px;
+      letter-spacing: -.2px;
+      }
+      }
+
+
+      .bottom-menu
+      {
+        list-style-type: none;
+         margin: 0;
+         padding: 0;
+         overflow: hidden;
+      a {
+        display: block;
+         text-align: center;
+         padding: 30px;
+         color: black;
+         line-height: normal;
+         text-decoration-color: black;}
+      li {
+          float: left;
+          display: inline;}
+      }
+}
+
+/* Base Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* NOTE
+html is set to 62.5% so that all the REM measurements throughout Skeleton
+are based on 10px sizing. So basically 1.5rem = 15px :) */
+html {
+  font-size: 62.5%; }
+body {
+  font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
+  line-height: 1.6;
+  /*font-weight: 400; SC commented out */
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #222; }
+
+
+/* Typography
+––––––––––––––––––––––––––––––––––––––––––––––––––
+h1, h2, h3, h4, h5, h6 {
+  /* margin-top: 0;
+  margin-bottom: 2rem; SC commented out
+  margin: 0 0 0 0;
+  font-weight: 500; }
+h1 { font-size: 2.0rem; line-height: 1.3;  letter-spacing: -.1rem;}
+h2 { font-size: 1.9rem; line-height: 1.35; letter-spacing: -.1rem; }
+h3 { font-size: 1.5; line-height: 1.3;  letter-spacing: -.1rem; }
+h4 { font-size: 2.4rem; line-height: 1.35; letter-spacing: -.08rem; }
+h5 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; }
+h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
+
+/* Larger than phablet
+@media (min-width: 550px) {
+  h1 { font-size: 4.0rem; }
+  h2 { font-size: 2.7rem; }
+  h3 { font-size: 3.6rem; }
+  h4 { font-size: 3.0rem; }
+  h5 { font-size: 2.4rem; }
+  h6 { font-size: 1.5rem; }
+}
+*/
+
+/*p {
+margin: 0 2rem 1rem 2rem;}*/
+
+
+/* Links
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+a {
+  color: #000; }
+a:hover {
+  color: #000; }
+
+
+/* Buttons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.button,
+button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+  display: inline-block;
+  height: 38px;
+  padding: 0 30px;
+  color: #555;
+  text-align: center;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 38px;
+  letter-spacing: .1rem;
+  text-transform: uppercase;
+  text-decoration: none;
+  white-space: nowrap;
+  background-color: transparent;
+  border-radius: 4px;
+  border: 1px solid #bbb;
+  cursor: pointer;
+  box-sizing: border-box; }
+.button:hover,
+button:hover,
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+input[type="button"]:hover,
+.button:focus,
+button:focus,
+input[type="submit"]:focus,
+input[type="reset"]:focus,
+input[type="button"]:focus {
+  color: #333;
+  border-color: #888;
+  outline: 0; }
+.button.button-primary,
+button.button-primary,
+input[type="submit"].button-primary,
+input[type="reset"].button-primary,
+input[type="button"].button-primary {
+  color: #FFF;
+  background-color: #33C3F0;
+  border-color: #33C3F0; }
+.button.button-primary:hover,
+button.button-primary:hover,
+input[type="submit"].button-primary:hover,
+input[type="reset"].button-primary:hover,
+input[type="button"].button-primary:hover,
+.button.button-primary:focus,
+button.button-primary:focus,
+input[type="submit"].button-primary:focus,
+input[type="reset"].button-primary:focus,
+input[type="button"].button-primary:focus {
+  color: #FFF;
+  background-color: #1EAEDB;
+  border-color: #1EAEDB; }
+
+
+/* Forms
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="text"],
+input[type="tel"],
+input[type="url"],
+input[type="password"],
+textarea,
+select {
+  height: 38px;
+  padding: 6px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
+  background-color: #fff;
+  border: 1px solid #D1D1D1;
+  border-radius: 4px;
+  box-shadow: none;
+  box-sizing: border-box; }
+/* Removes awkward default styles on some inputs for iOS */
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="text"],
+input[type="tel"],
+input[type="url"],
+input[type="password"],
+textarea {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none; }
+textarea {
+  min-height: 65px;
+  padding-top: 6px;
+  padding-bottom: 6px; }
+input[type="email"]:focus,
+input[type="number"]:focus,
+input[type="search"]:focus,
+input[type="text"]:focus,
+input[type="tel"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+textarea:focus,
+select:focus {
+  border: 1px solid #33C3F0;
+  outline: 0; }
+label,
+legend {
+  display: block;
+  margin-bottom: .5rem;
+  font-weight: 600; }
+fieldset {
+  padding: 0;
+  border-width: 0; }
+input[type="checkbox"],
+input[type="radio"] {
+  display: inline; }
+label > .label-body {
+  display: inline-block;
+  margin-left: .5rem;
+  font-weight: normal; }
+
+
+/* Lists
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+ul {
+  list-style: circle inside; }
+ol {
+  list-style: decimal inside; }
+ol, ul {
+  padding-left: 0;
+  margin-top: 0; }
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+  margin: 1.5rem 0 1.5rem 3rem;
+  font-size: 90%; }
+li {
+  margin-bottom: 1rem; }
+
+
+/* Code
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+code {
+  padding: .2rem .5rem;
+  margin: 0 .2rem;
+  font-size: 90%;
+  white-space: nowrap;
+  background: #F1F1F1;
+  border: 1px solid #E1E1E1;
+  border-radius: 4px; }
+pre > code {
+  display: block;
+  padding: 1rem 1.5rem;
+  white-space: pre; }
+
+
+/* Tables
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+th,
+td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #E1E1E1; }
+th:first-child,
+td:first-child {
+  padding-left: 0; }
+th:last-child,
+td:last-child {
+  padding-right: 0; }
+
+
+/* Spacing
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+button,
+.button {
+  margin-bottom: 1rem; }
+input,
+textarea,
+select,
+fieldset {
+  margin-bottom: 1.5rem; }
+pre,
+blockquote,
+dl,
+figure,
+table,
+p,
+ul,
+ol,
+form {
+  margin-bottom: 1.5rem; }
+
+
+/* Utilities
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.u-full-width {
+  width: 100%;
+  box-sizing: border-box; }
+.u-max-full-width {
+  max-width: 100%;
+  box-sizing: border-box; }
+.u-pull-right {
+  float: right; }
+.u-pull-left {
+  float: left; }
+
+
+/* Misc
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+
+/* Clearing
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* Self Clearing Goodness */
+.container:after,
+.row:after,
+.u-cf {
+  content: "";
+  display: table;
+  clear: both; }
+
+
+/* Media Queries
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/*
+Note: The best way to structure the use of media queries is to create the queries
+near the relevant code. For example, if you wanted to change the styles for buttons
+on small devices, paste the mobile query code up in the buttons section and style it
+there.
+*/
+
+
+/* Larger than mobile */
+@media (min-width: 400px) {}
+
+/* Larger than phablet (also point when grid becomes active) */
+@media (min-width: 550px) {}
+
+/* Larger than tablet */
+@media (min-width: 750px) {}
+
+/* Larger than desktop */
+@media (min-width: 1000px) {}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {}
