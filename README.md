@@ -17,17 +17,17 @@ If you've got a poster you've created, and would like to commit it here, please 
 
 We welcome feedback - please [add an issue](https://github.com/UKHomeOffice/posters/issues) - positive or negative.
 
-Otherwise you can contact Karwai Pun, [@krwpn](https://twitter.com/krwpn), or Bernard Tyers, [@bernardtyers](https://twitter.com/bernardtyers), on Twitter.
+Otherwise you can contact Karwai Pun, [@krwpn](https://twitter.com/krwpn), Megan Rodgers [@Rodgermegan](https://twitter.com/Rodgermegan), or Simon Castillo [@simcastillo] (https://twitter.com/simcastillo) on Twitter.
 
 **Access needs**
 
-These posters cover the following access needs:
-* [Autism](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/autistic-spectrum.pdf)
-* [Dyslexia](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/dyslexia.pdf)
-* [Visually impaired - low vision users](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/low-vision.pdf)
-* [Visually impaired - screenreader users](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/screenreader.pdf)
-* [Motor disabilities](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/motor-disabilities.pdf)
-* [D/deafness and hard of hearing](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/deaf.pdf)
+These [posters] (https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/accessibility-posters-set.pdf) cover the following access needs:
+* Autism
+* Dyslexia
+* Visually impaired - low vision users
+* Visually impaired - screenreader users
+* Motor disabilities
+* D/deafness and hard of hearing
 
 
 **User research and design**
