@@ -17,11 +17,11 @@ If you've got a poster you've created, and would like to commit it here, please 
 
 We welcome feedback - please [add an issue](https://github.com/UKHomeOffice/posters/issues) - positive or negative.
 
-Otherwise you can contact Karwai Pun, [@krwpn](https://twitter.com/krwpn), Megan Rodgers [@Rodgermegan](https://twitter.com/Rodgermegan), or Simon Castillo [@simcastillo] (https://twitter.com/simcastillo) on Twitter.
+Otherwise you can contact Karwai Pun, [@krwpn](https://twitter.com/krwpn), Megan Rodgers [@Rodgermegan](https://twitter.com/Rodgermegan), or Simon Castillo [@simcastillo](https://twitter.com/simcastillo) on Twitter.
 
 **Access needs**
 
-These [posters] (https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/accessibility-posters-set.pdf) cover the following access needs:
+These [posters](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/accessibility-posters-set.pdf) cover the following access needs:
 * Autism
 * Dyslexia
 * Visually impaired - low vision users
