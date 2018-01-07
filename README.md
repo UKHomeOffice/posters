@@ -36,6 +36,7 @@ These [posters](https://github.com/UKHomeOffice/posters/blob/master/accessibilit
 * [2 hours of user research every six weeks](https://github.com/UKHomeOffice/posters/blob/master/gds/two-hours-every-six-weeks.pdf)
 * [GDS design principles](https://github.com/UKHomeOffice/posters/blob/master/gds/design-principles-poster.pdf)
 * [GDS "It's OK to.."](https://github.com/UKHomeOffice/posters/blob/master/gds/its-ok-to.pdf)
+* [Meeting the Assited Digital needs of your users](https://github.com/UKHomeOffice/posters/blob/master/Assisted%20digital%20poster.pdf)
 
 **Discovery Alpha Beta Live**
 
