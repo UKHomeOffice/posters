@@ -34,12 +34,13 @@ Read more in LICENSE.md.
 **Access needs**
 
 These posters cover the following access needs:
-* [Autism](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/autistic-spectrum.pdf)
-* [Deafness and hard of hearing](https://github.com/ukhomeoffice/posters/blob/master/accessibility/posters_en-UK/deaf.pdf)
-* [Dyslexia](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/dyslexia.pdf)
-* [Physical or motor disabilities](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/motor-disabilities.pdf)
-* [Visually impaired - low vision users](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/low-vision.pdf)
-* [Visually impaired - screenreader users](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/screenreader.pdf)
+* [Autism](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/svg/autistic-spectrum.svg)
+* [Deafness and hard of hearing](https://github.com/ukhomeoffice/posters/blob/master/accessibility/posters_en-UK/svg/deaf.svg)
+* [Dyslexia](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/svg/dyslexia.svg)
+* [Physical or motor disabilities](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/svg/motor-disabilities.svg)
+* [Visually impaired - low vision users](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/svg/low-vision.svg)
+* [Visually impaired - screenreader users](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/svg/screenreader.svg)
+* [Anxiety](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/svg/anxiety.svg)
 
 These posters are also available in other languages:
 * [Dutch (nl-NL)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_nl)
