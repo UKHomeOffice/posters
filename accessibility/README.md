@@ -46,6 +46,7 @@ These posters are also available in other languages:
 * [Dutch (nl-NL)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_nl)
 * [French (fr-FR)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_fr)
 * [German (de-DE)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_de)
+* [Italian (it-IT)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_it)
 * [Portuguese Brazilian (pt-BR)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_pt-BR)
 * [Portuguese European (pt-PT)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_pt-PT)
 * [Spanish (es-ES)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_es)
