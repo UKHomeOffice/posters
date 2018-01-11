@@ -28,6 +28,7 @@ These [posters](https://github.com/UKHomeOffice/posters/blob/master/accessibilit
 * Visually impaired - screenreader users
 * Motor disabilities
 * D/deafness and hard of hearing
+* Anxiety
 
 
 **User research and design**
