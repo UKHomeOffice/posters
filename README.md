@@ -6,7 +6,11 @@ Home Office repository of posters covering different topics - research, access n
 
 If you want to contribute a translation of one of our posters, we would really appreciate your help.
 
-You are free to adapt the posters under [the licence](https://creativecommons.org/licenses/by-nc-sa/4.0/). But please remove the Home Office name and link back to this repo giving appropriate credit.
+You are free to adapt the posters but only under the following conditions:
+
+* you make the work available under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International licence](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+* you remove the Home Office name and logo
+* you give appropriate credit and link back to this repo
 
 We welcome feedback - please [create an issue](https://github.com/UKHomeOffice/posters/issues) to feedback whether positive or negative. Otherwise you can contact the [design team at the Home Office on email](mailto:design@digital.homeoffice.gov.uk).
 
