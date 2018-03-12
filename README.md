@@ -19,7 +19,7 @@ Using Git Browser, you can [view all the posters before you start working on the
 
 ### Access needs
 
-These [posters](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/accessibility-posters-set.pdf) cover the following access needs:
+These [posters](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf) cover the following access needs:
 * Anxiety
 * Autism
 * D/deafness and hard of hearing
@@ -27,14 +27,6 @@ These [posters](https://github.com/UKHomeOffice/posters/blob/master/accessibilit
 * Motor disabilities
 * Visually impaired - low vision users
 * Visually impaired - screenreader users
-
-### User research and design
-
-* [User research is a team sport](https://github.com/UKHomeOffice/posters/blob/master/gds/research-teamsport.pdf)
-* [2 hours of user research every six weeks](https://github.com/UKHomeOffice/posters/blob/master/gds/two-hours-every-six-weeks.pdf)
-* [GDS design principles](https://github.com/UKHomeOffice/posters/blob/master/gds/design-principles-poster.pdf)
-* [GDS "It's OK to.."](https://github.com/UKHomeOffice/posters/blob/master/gds/its-ok-to.pdf)
-* [Meeting the Assited Digital needs of your users](https://github.com/UKHomeOffice/posters/blob/master/Assisted%20digital%20poster.pdf)
 
 ### Discovery Alpha Beta Live
 
