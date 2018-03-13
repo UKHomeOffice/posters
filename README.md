@@ -30,5 +30,5 @@ These [posters](https://github.com/UKHomeOffice/posters/blob/master/accessibilit
 
 ### Discovery Alpha Beta Live
 
-* [General](https://github.com/UKHomeOffice/posters/blob/master/discovery-alpha-beta-live/DiscoveryAlphaBetaLive_OnePage.pdf)
-* [Discover Alpha Beta Live phases](https://github.com/UKHomeOffice/posters/blob/master/discovery-alpha-beta-live/DiscoveryAlphaBetaLive_Individual.pdf)
+* [General](https://github.com/UKHomeOffice/posters/blob/master/design/discovery-alpha-beta-live/DiscoveryAlphaBetaLive_OnePage.pdf)
+* [Discover Alpha Beta Live phases](https://github.com/UKHomeOffice/posters/blob/master/design/discovery-alpha-beta-live/DiscoveryAlphaBetaLive_Individual.pdf)
