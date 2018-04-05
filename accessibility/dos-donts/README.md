@@ -34,25 +34,25 @@ Read more in LICENSE.md.
 **Access needs**
 
 These posters cover the following access needs:
-* [Autism](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/svg/autistic-spectrum.svg)
-* [Deafness and hard of hearing](https://github.com/ukhomeoffice/posters/blob/master/accessibility/posters_en-UK/svg/deaf.svg)
-* [Dyslexia](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/svg/dyslexia.svg)
-* [Physical or motor disabilities](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/svg/motor-disabilities.svg)
-* [Visually impaired - low vision users](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/svg/low-vision.svg)
-* [Visually impaired - screenreader users](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/svg/screenreader.svg)
-* [Anxiety](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/svg/anxiety.svg)
+* [Autism](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/svg/autistic-spectrum.svg)
+* [Deafness and hard of hearing](https://github.com/ukhomeoffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/svg/deaf.svg)
+* [Dyslexia](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/svg/dyslexia.svg)
+* [Physical or motor disabilities](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/svg/motor-disabilities.svg)
+* [Visually impaired - low vision users](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/svg/low-vision.svg)
+* [Visually impaired - screenreader users](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/svg/screenreader.svg)
+* [Anxiety](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/svg/anxiety.svg)
 
 These posters are also available in other languages:
-* [Dutch (nl-NL)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_nl)
-* [French (fr-FR)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_fr)
-* [German (de-DE)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_de)
-* [Italian (it-IT)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_it)
-* [Portuguese Brazilian (pt-BR)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_pt-BR)
-* [Portuguese European (pt-PT)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_pt-PT)
-* [Spanish (es-ES)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_es)
-* [Taiwanese (tw-TW)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_tw)
-* [Taiwanese Mandarin (zh-TW)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_zh-TW)
-* [Turkish (tr-TR)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_tr)
+* [Dutch (nl-NL)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_nl)
+* [French (fr-FR)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_fr)
+* [German (de-DE)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_de)
+* [Italian (it-IT)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_it)
+* [Portuguese Brazilian (pt-BR)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_pt-BR)
+* [Portuguese European (pt-PT)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_pt-PT)
+* [Spanish (es-ES)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_es)
+* [Taiwanese (tw-TW)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_tw)
+* [Taiwanese Mandarin (zh-TW)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_zh-TW)
+* [Turkish (tr-TR)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_tr)
 
 ## Get in touch
 
