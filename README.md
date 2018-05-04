@@ -15,7 +15,7 @@ You are free to adapt the posters but only under the following conditions:
 We welcome feedback - please [create an issue](https://github.com/UKHomeOffice/posters/issues) to feedback whether positive or negative. Otherwise you can contact the design team at the Home Office on email - [design@digital.homeoffice.gov.uk](mailto:design@digital.homeoffice.gov.uk).
 
 ## Our posters  
-Using Git Browser, you can [view all the posters before you start working on them](http://www.git-browser.com/ukhomeoffice/posters/accessibility/posters_en-UK). (A big thanks to [Joe Lanman](https://twitter.com/joelanman) from [GDS](https://twitter.com/gdsteam) for adding our posters to his Git Browser project)  
+Using Git Browser, you can [view all the posters before you start working on them](http://www.git-browser.com/ukhomeoffice/posters/accessibility). (A big thanks to [Joe Lanman](https://twitter.com/joelanman) from [GDS](https://twitter.com/gdsteam) for adding our posters to his Git Browser project)  
 
 ### Access needs
 
