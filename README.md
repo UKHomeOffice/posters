@@ -14,9 +14,9 @@ You are free to adapt the posters but only under the following conditions:
 
 Here are some examples of how the posters have been adapted by external organisations:
 
-Designing for those who have experienced trauma through domestic or intimate partner violence 
+[Designing for those who have experienced trauma through domestic or intimate partner violence](https://bit.ly/2JkAnFA) 
 
-Designing for users with aphasia 
+[Designing for users with aphasia](https://bit.ly/2kVbGFm) 
 
 We welcome feedback - please [create an issue](https://github.com/UKHomeOffice/posters/issues) to feedback whether positive or negative. Otherwise you can contact the design team at the Home Office on email - [design@digital.homeoffice.gov.uk](mailto:design@digital.homeoffice.gov.uk).
 
