@@ -43,6 +43,7 @@ These posters cover the following access needs:
 * [Anxiety](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/svg/anxiety.svg)
 
 These posters are also available in other languages:
+* [Catalan (ca-CA)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_ca)
 * [Dutch (nl-NL)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_nl)
 * [French (fr-FR)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_fr)
 * [German (de-DE)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_de)
