@@ -59,4 +59,4 @@ These posters are also available in other languages:
 
 Best is to open a [new issue](https://github.com/UKHomeOffice/posters/issues), and we'll get in touch.
 
-Otherwise you can contact Karwai Pun, [@krwpn](https://twitter.com/krwpn), or Bernard Tyers, [@bernardtyers](https://twitter.com/bernardtyers), on Twitter.
+Otherwise you can contact Karwai Pun, [@krwpn](https://twitter.com/krwpn), or Michael Owen, [@1mikeowen](https://twitter.com/1mikeowen), on Twitter.
