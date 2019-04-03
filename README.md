@@ -33,6 +33,8 @@ These [posters](https://github.com/UKHomeOffice/posters/blob/master/accessibilit
 * Visually impaired - low vision users
 * Visually impaired - screenreader users
 
+There is also a [HTML versions of these posters](https://ukhomeoffice.github.io/accessibility-posters/).
+
 You can read about how the Do's and Don'ts posters were developed on our blog: https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
 
 ### Discovery Alpha Beta Live
