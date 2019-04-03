@@ -1,11 +1,11 @@
 # Access Needs Posters
-Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.
+Home Office posters covering general guidance on how to design more accessible services. 
 
-## Background
+These posters are also [available in HTML](https://ukhomeoffice.github.io/accessibility-posters/).
 
 If you'd like to learn more about these posters, and why they were made, read [this blogpost](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/).
 
-**See all the posters**
+## Browsing the poster
 
 Using Git Browser, you can [view all the posters before you start working on them](http://www.git-browser.com/ukhomeoffice/posters/accessibility/posters_en-UK).
 
