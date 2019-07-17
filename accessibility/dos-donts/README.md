@@ -54,6 +54,7 @@ These posters are also available in other languages:
 * [Taiwanese (tw-TW)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_tw)
 * [Taiwanese Mandarin (zh-TW)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_zh-TW)
 * [Turkish (tr-TR)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_tr)
+* [Japanese (ja)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_ja)
 
 ## Get in touch
 
