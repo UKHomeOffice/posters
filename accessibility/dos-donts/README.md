@@ -44,6 +44,7 @@ These posters cover the following access needs:
 
 These posters are also available in other languages:
 * [Catalan (ca-CA)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_ca)
+* [Czech (cs-CZ)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_cz)
 * [Dutch (nl-NL)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_nl)
 * [French (fr-FR)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_fr)
 * [German (de-DE)](https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_de)
