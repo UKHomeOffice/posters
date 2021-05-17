@@ -1,4 +1,4 @@
-アクセシビリティのためのデザイン
+Các thiết kế web nhằm tăng khả năng tiếp cận với các đối tượng đặc biệt
 
 【自閉症スペクトラムのためのデザイン】
 
