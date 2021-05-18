@@ -1,6 +1,6 @@
 Các thiết kế web nhằm tăng khả năng tiếp cận với các đối tượng đặc biệt
 
-【自閉症スペクトラムのためのデザイン】
+【自閉症スペクトラムのためのデザイン】.
 
 すること
 •単純な色を使う
