@@ -48,21 +48,21 @@ Các thiết kế web nhằm tăng khả năng tiếp cận với các đối t�
 •ページ全体にコンテンツを広げる（拡大表示したとき、横スクロールが必要）
 •文脈と分離した操作をさせる
 
-【ディスレクシアのためのデザイン】
+【Thiết kế cho người mắc chứng khó đọc】
 
-すること
-•理解を助けるために画像や図を使う
-•文字揃えは左揃えで一貫したレイアウトを保つ
-•他のフォーマットでの情報提供を検討する（例：音声や動画）
-•コンテンツを短く、明確に、簡潔にする
-•背景と文字のコントラストを利用者が変更できる
+Nên
+•Sử dụng hình ảnh và sơ đồ để giúp người đọc dễ hiểu hơn
+•Luôn căn trái để duy trì bố cục nhất quán
+•Cân nhắc việc cung cấp thông tin ở các định dạng khác (ví dụ: âm thanh và video)
+•Viết nội dung ngắn gọn, rõ ràng và súc tích
+•Cho phép người dùng có thể thay đổi độ tương phản giữa nền và văn bản
 
-しないこと
-•長い文章で大きな文字のブロックをつくる
-•下線を引く、斜体を使う、大文字で書く
-•前のページを覚えておく必要がある（リマインダやヒントを出しましょう）
-•正確なことばで入力する必要がある（予測入力や自動修正の機能を使いましょう）
-•ひとつの場所に情報をつめこむ
+Không nên
+•Tạo câu văn dài với kích thước chữ lớn
+•Gạch chân, viết nghiêng, viết hoa
+•Bắt người dùng ghi nhớ nội dung các trang trước (nên đưa ra lời nhắc hay gợi ý)
+•Bắt người dùng nhập đúng từ ngữ (nên sử dụng tính năng tiên đoán và tự động sửa)
+•Dồn thông tin vào một nơi
 
 【身体障害・運動障害のためのデザイン】
 
@@ -80,21 +80,21 @@ Các thiết kế web nhằm tăng khả năng tiếp cận với các đối t�
 •短い時間制限をもうける
 •タイピングやスクロールで利用者を疲れさせる
 
-【聴覚障害・難聴のためのデザイン】
+【Thiết kế cho người khiếm thính】
 
-すること
-•やさしい言葉で書く
-•字幕を使うか、動画の書き起こし文を提供する
-•順序立てた論理的なレイアウトにする
-•小見出し、画像、動画でコンテンツを分割する
-•予約や手続きの際に利用者が希望するコミュニケーション支援を利用できる
+Nên
+•Viết bằng những từ ngữ dễ hiểu
+•Sử dụng phụ đề hoặc cung cấp bản ghi lời thoại của video
+•Tạo bố cục trật tự và hợp lý
+•Chia nội dung theo tiêu đề phụ, hình ảnh và video
+•Cho phép người dùng yêu cầu các phương thức giao tiếp hỗ trợ khi đặt lịch hay giao dịch
 
-しないこと
-•難しい言葉や比喩表現を使う
-•音声や動画のみで情報提供する
-•複雑なレイアウトやメニューをつくる
-•長いかたまりのコンテンツを読ませる
-•電話を唯一の連絡手段にする
+Không nên
+•Sử dụng các từ khó và cách diễn đạt ẩn dụ
+•Cung cấp thông tin chỉ bằng âm thanh và video
+•Tạo bố cục và menu phức tạp
+•Để người dùng phải đọc những đoạn nội dung dài
+•Để phương tiện liên lạc duy nhất là điện thoại
 
 【不安状態のためのデザイン】
 
