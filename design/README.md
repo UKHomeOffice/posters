@@ -8,8 +8,7 @@ Needs summary
 Needs summary
 
 ## Inclusive language
-We have designed posters for the following protected characteristics:
- 
+We have designed [inclusive language posters](https://github.com/UKHomeOffice/posters/tree/master/design/Inclusive%20language) for the following protected characteristics:
 * age
 * disability
 * ethnicity and nationality
