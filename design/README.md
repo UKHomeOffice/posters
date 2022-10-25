@@ -1,11 +1,13 @@
 
 # Home Office design posters
 
-## Accessibility
-Needs summary
+## Discovery-Alpha-Beta-Live
+
+* [General](https://github.com/UKHomeOffice/posters/blob/master/design/discovery-alpha-beta-live/DiscoveryAlphaBetaLive_OnePage.pdf)
+* [Discover Alpha Beta Live phases](https://github.com/UKHomeOffice/posters/blob/master/design/discovery-alpha-beta-live/DiscoveryAlphaBetaLive_Individual.pdf)
 
 ## Design ethics
-Needs summary
+Our [design ethics toolkit] provides techniques and resources for our teams to help them consider the ethical consequences of their designs.
 
 ## Inclusive language
 We have designed [inclusive language posters](https://github.com/UKHomeOffice/posters/tree/master/design/Inclusive%20language) for the following protected characteristics:
