@@ -46,7 +46,7 @@ You can read about how the Do's and Don'ts posters were developed on our blog: h
 Our [design ethics toolkit](https://github.com/UKHomeOffice/posters/tree/master/design/Design%20ethics) sets out approaches and resources that teams can use to consider the ethical consequences of their designs.
 
 ### Inclusive language
-We have designed [inclusive language posters]() for the following protected characteristics:
+We have designed [inclusive language posters](https://github.com/UKHomeOffice/posters/tree/master/design/Inclusive%20language) for the following protected characteristics:
 * age
 * disability
 * ethnicity and nationality
