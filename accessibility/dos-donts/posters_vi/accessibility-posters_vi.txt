@@ -1,0 +1,113 @@
+Các thiết kế web nhằm tăng khả năng tiếp cận với các đối tượng đặc biệt
+
+Thiết kế dành cho người mắc rối loạn phổ tự kỷ
+
+Nên
+• Sử dụng màu sắc đơn giản
+• Dùng từ dễ hiểu
+• Viết câu đơn giản và dưới dạng danh sách
+• Tên các nút bấm rõ chức năng
+• Dựng layout đơn giản và thống nhất
+
+Không nên
+• Sử dụng màu sắc có độ tương phản cao
+• Dùng từ mang tính ẩn ý hoặc thành ngữ
+• Viết đoạn văn dài và không chia đoạn
+• Tên các nút bấm không rõ chức năng
+• Dựng layout phức tạp
+
+【Thiết kế dành cho người sử dụng công cụ đọc màn hình】
+
+NÊN
+•Mô tả hình ảnh và cung cấp phụ đề cho video
+•Tạo bố cục có trình tự và logic
+•Cấu trúc nội dung sử dụng HTML5
+•Xây dựng cho phép có thể thao tác chỉ sử dụng bàn phím
+•Viết các đường dẫn và đầu mục mô tả
+
+KHÔNG NÊN
+•Chỉ hiển thị thông tin bằng hình ảnh hoặc video
+•Dàn trải nội dung ra khắp trang web
+•Cấu trúc phụ thuộc cỡ chữ và sắp đặt vị trí
+•Bắt buộc sử dụng chuột hoặc màn hình
+•Sử dụng đường dẫn và đầu mục thiếu thông tin
+
+【Thiết kế dành cho người suy giảm thị lực】
+
+NÊN
+•Sử dụng màu sắc tương phản cao và cỡ chữ dễ đọc
+•Hiển thị tất cả thông tin trong trang web
+•Kết hợp màu sắc, hình dạng và chữ viết
+•Tạo bố cục có trình tự và hợp lý
+•Các nút và thông báo được đặt trong bối cảnh phù hợp
+
+KHÔNG NÊN
+•Sử dụng màu sắc tương phản thấp và cỡ chữ nhỏ
+•Tập trung thông tin trong các tệp tải xuống
+•Chỉ dùng màu sắc để thể hiện ý nghĩa
+•Dàn trải nội dung ra toàn bộ trang web
+•Tách biệt thao tác khỏi bối cảnh
+
+【Thiết kế cho người mắc chứng khó đọc】
+
+Nên
+•Sử dụng hình ảnh và sơ đồ để giúp người đọc dễ hiểu hơn
+•Luôn căn trái để duy trì bố cục nhất quán
+•Cân nhắc việc cung cấp thông tin ở các định dạng khác (ví dụ: âm thanh và video)
+•Viết nội dung ngắn gọn, rõ ràng và súc tích
+•Cho phép người dùng thay đổi độ tương phản giữa nền và văn bản
+
+Không nên
+•Viết câu văn dài với kích thước chữ lớn
+•Gạch chân, viết nghiêng, viết hoa
+•Bắt người dùng ghi nhớ nội dung các trang trước (nên đưa ra lời nhắc hay gợi ý)
+•Bắt người dùng nhập đúng từ ngữ (nên sử dụng tính năng tiên đoán và tự động sửa)
+•Dồn thông tin vào một nơi
+
+【Thiết kế dành cho người khuyết tật thể chất, gặp trở ngại vận động】
+
+NÊN
+•Mở rộng phạm vi có thể click chuột
+•Tạo khoảng trống giữa các đối tượng
+•Thiết kế để sử dụng được chỉ với bàn phím và giọng nói
+•Thiết kế phù hợp để sử dụng bằng điện thoại và màn hình cảm ứng
+•Cung cấp các đường tắt (shortcut)
+
+KHÔNG NÊN
+•Yêu cầu sự chính xác
+•Bố trí các đối tượng quá gần nhau
+•Tạo nội dung tĩnh khiến cho phải di chuyển chuột nhiều
+•Giới hạn phiên sử dụng thời gian ngắn
+•Khiến người dùng mệt mỏi do soạn thảo và lăn chuột nhiều
+
+【Thiết kế cho người khiếm thính】
+
+Nên
+•Viết bằng những từ ngữ dễ hiểu
+•Sử dụng phụ đề hoặc cung cấp bản ghi lời thoại của video
+•Tạo bố cục trật tự và hợp lý
+•Chia nội dung theo tiêu đề phụ, hình ảnh và video
+•Cho phép người dùng yêu cầu các phương thức hỗ trợ giao tiếp khi đặt lịch hay giao dịch
+
+Không nên
+•Sử dụng các từ khó và cách diễn đạt ẩn dụ
+•Chỉ cung cấp thông tin bằng âm thanh và video
+•Tạo bố cục và menu phức tạp
+•Để người dùng phải đọc những đoạn nội dung dài
+•Mặc định phương thức liên lạc duy nhất là điện thoại
+
+Thiết kế dành cho người mắc chứng rối loạn lo âu
+
+Nên
+• Dành đủ thời gian cho người dùng thao tác
+• Giải thích các bước tiếp theo
+• Làm nổi bật những thông tin quan trọng
+• Cung cấp sự hỗ trợ để giúp người dùng hoàn thành thao tác
+• Cho phép người dùng xem lại thông tin trước khi gửi
+
+Không nên
+• Hối thúc hoặc đặt ra giới hạn thời gian không hợp lý
+• Khiến người dùng bị nhầm lẫn về các thao tác hoặc mốc thời gian tiếp theo
+• Không giải thích về kết quả của thao tác
+• Gây khó khăn khi nhận sự trợ giúp
+• Khiến người dùng không nắm được thông tin đã nhập
